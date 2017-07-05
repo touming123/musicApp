@@ -1,0 +1,9 @@
+## 代码结构
+src
+  api:请求相关的，json，ajax，jsonp
+  common:通用静态资源
+    fonts image js stylus
+  components
+  router
+  store:vuex相关代码
+  入口：main.js app.vue
